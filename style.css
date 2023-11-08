@@ -27,15 +27,47 @@
 
 }
 
-#box3 {
+
+#box1 {
     width: 600px;
-    height: 300px;
+    height: 270px;
     background: #e2eefc;
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 20px;
     margin-left: 70px;
 }
+
+#box2 {
+    width: 600px;
+    height: 270px;
+    background: #e2eefc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
+#box3 {
+    width: 600px;
+    height: 295px;
+    background: #e2eefc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
+#box4 {
+    width: 600px;
+    height: 250px;
+    background: #e2eefc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+
 
 #text {
     font-size: 20px;
